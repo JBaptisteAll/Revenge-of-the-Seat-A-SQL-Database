@@ -1,8 +1,5 @@
 <h1 align="center">Revenge of the Seat: An SQL Database</h1> 
 
-<p align="center">
-  <img src="(https://github.com/JBaptisteAll/Revenge-of-the-Seat-An-SQL-Database/blob/main/Assets/logo.png)" alt="logo" width="200"/>
-</p>
 
 ![Logo](https://github.com/JBaptisteAll/Revenge-of-the-Seat-An-SQL-Database/blob/main/Assets/logo.png)
 
@@ -33,9 +30,7 @@ The database consists of six core tables:
 
 Each table is connected using foreign keys, enforcing referential integrity.
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Star_Wars_Logo.svg" alt="logo" width="200"/>
-</p>
+![Merise](https://github.com/JBaptisteAll/Revenge-of-the-Seat-An-SQL-Database/blob/main/Assets/Merise.png)
 ---
 
 ## 🧪 Data Generation
