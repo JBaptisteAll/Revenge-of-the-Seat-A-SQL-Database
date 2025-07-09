@@ -1,7 +1,7 @@
 <h1 align="center">Revenge of the Seat: An SQL Database</h1> 
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Star_Wars_Logo.svg" alt="logo" width="200"/>
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/6/6b/Star_Wars_Logo.svg](https://github.com/JBaptisteAll/Revenge-of-the-Seat-An-SQL-Database/blob/main/Assets/logo.png)" alt="logo" width="200"/>
 </p>
 
 
