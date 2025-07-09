@@ -3,6 +3,7 @@
 <p align="center">
   <img src="(https://github.com/JBaptisteAll/Revenge-of-the-Seat-An-SQL-Database/blob/main/Assets/logo.png)" alt="logo" width="200"/>
 </p>
+
 ![Logo](https://github.com/JBaptisteAll/Revenge-of-the-Seat-An-SQL-Database/blob/main/Assets/logo.png)
 
 ## 📌 Introduction
