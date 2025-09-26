@@ -1,4 +1,4 @@
-<h1 align="center">Revenge of the Seat: A SQL Database</h1> 
+<h1 align="center">Revenge of the Seat: An SQL Database</h1> 
 
 
 ![Logo](https://github.com/JBaptisteAll/Revenge-of-the-Seat-An-SQL-Database/blob/main/Assets/logo.png)
